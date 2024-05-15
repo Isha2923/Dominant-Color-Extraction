@@ -8,7 +8,7 @@ Streamlit Application Link - https://dominant-color-extraction-gc7rxdfqbjx6kxi5k
 
 ![Screenshot 2024-05-15 224920](https://github.com/Isha2923/Dominant-Color-Extraction/assets/122515895/ca2208e1-82dc-49d9-a8bf-f7cbcb4e8f42)
 
-## Upload Iriginal Image
+## Upload Original Image
 
 ![Screenshot 2024-05-15 225634](https://github.com/Isha2923/Dominant-Color-Extraction/assets/122515895/8554febc-1709-4c67-9147-7b78773cb4c9)
 
